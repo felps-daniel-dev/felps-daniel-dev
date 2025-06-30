@@ -28,7 +28,7 @@ Atualmente curso **Análise e Desenvolvimento de Sistemas**, estudo todos os dia
 ## 📂 Projetos em destaque
 
 - 🎲 [Jogo de Adivinhação em C](https://github.com/felps-daniel-dev/JogoAdivinhacao) – aplicando lógica 
-- 🧮 [Calculadora de Área](https://github.com/felps-daniel-dev/CalculadoraArea) – primeiros passos com funções e entrada de dados  
+- 🧮 [Sistema bancário simples](SistemaBancarioSimples) – primeiros passos com funções e entrada de dados  
 - 📁 [Aula de Git (Rafa Ballerini)](https://github.com/felps-daniel-dev/ProjetoGit) – repositório de estudos sobre Git e GitHub
 - Mais Projetos em Breve...
 ---
