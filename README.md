@@ -3,7 +3,7 @@
 <p align="center">
   💻 Estudante de ADS | ☕ Futuro Dev Java Back-End <br>
   🎯 Em busca da minha primeira oportunidade na área <br>
-  🛡️ Ex-militar | Vivi na rotina da farda. Hoje, codifico com a mesma disciplina.
+  🛡️ Ex-militar
 </p>
 
 ---
@@ -20,7 +20,6 @@ Atualmente curso **Análise e Desenvolvimento de Sistemas**, estudo todos os dia
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
 ---
