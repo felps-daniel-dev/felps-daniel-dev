@@ -27,8 +27,8 @@ Atualmente curso **Análise e Desenvolvimento de Sistemas**, estudo todos os dia
 ## 📂 Projetos em destaque
 
 - 🎲 [Um CRUD na linguagem C](https://github.com/felps-daniel-dev/CRUD-C) – aplicando lógica, estrutura de dados  
-- 🧮 [Sistema bancário simples](https://github.com/felps-daniel-dev/Classes-e-Encapsulamento-Java/tree/main/SistemaBancarioSimples) – primeiros passos com Orientação a Objetos  
-- 📁 [Aula de Git (Rafa Ballerini)](https://github.com/felps-daniel-dev/ProjetoGit) – repositório de estudos sobre Git e GitHub
+- 🧮 [Sistema de Registro para academia](https://github.com/felps-daniel-dev/AcademyProject) – primeira aplicação ultilizando JDBC  
+
 - Mais Projetos em Breve...
 ---
 
