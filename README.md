@@ -26,7 +26,7 @@ Atualmente curso **Análise e Desenvolvimento de Sistemas**, estudo todos os dia
 
 ## 📂 Projetos em destaque
 
-- 🎲 [Jogo de Adivinhação em C](https://github.com/felps-daniel-dev/JogoAdivinhacao) – aplicando lógica 
+- 🎲 [Um CRUD na linguagem C](https://github.com/felps-daniel-dev/CRUD-C) – aplicando lógica, estrutura de dados  
 - 🧮 [Sistema bancário simples](https://github.com/felps-daniel-dev/Classes-e-Encapsulamento-Java/tree/main/SistemaBancarioSimples) – primeiros passos com Orientação a Objetos  
 - 📁 [Aula de Git (Rafa Ballerini)](https://github.com/felps-daniel-dev/ProjetoGit) – repositório de estudos sobre Git e GitHub
 - Mais Projetos em Breve...
@@ -35,11 +35,11 @@ Atualmente curso **Análise e Desenvolvimento de Sistemas**, estudo todos os dia
 ## 📈 Em constante evolução
 
 - ☕ Java (linguagem principal)
-- 🔄 Orientação a Objetos(em andamento)
+- 🔄 Orientação a Objetos
 - 🔧 Git e GitHub
 - 🧠 Algoritmos e lógica
 - 🌐 Noções básicas de HTML/CSS(em andamento)
-- 🐘 MySQL e banco de dados (em breve)
+- 🐘 MySQL e banco de dados 
 - 🌱 Spring Boot (foco próximo)
 
 ---
